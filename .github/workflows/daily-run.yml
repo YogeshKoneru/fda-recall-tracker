@@ -1,0 +1,34 @@
+name: Daily FDA Recall Report
+
+# This runs the script automatically every day at 9am UTC,
+# and also lets you trigger it manually from the GitHub "Actions" tab.
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the recall tracker
+        run: python fetch_fda_recalls.py
+
+      - name: Commit updated output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Automated daily recall report" || echo "Nothing to commit"
+          git push
