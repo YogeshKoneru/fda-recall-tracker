@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-07-22_1522
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              90
+Class I                5
+Class III              4
+Not Yet Classified     1
+
+Top 5 most common recall reasons:
+Reason
+CGMP Deviations; deficiencies observed during FDA inspection                                                                                                                                                           14
+Lack of assurance of sterility: Unsterilized ChloraPrep & PurPrep Applicators, intended for further processing and sterilization were instead distributed to customers outside of the intended distribution channel    10
+Defective container:may contain bottles with incomplete seals                                                                                                                                                           7
+Subpotent drug                                                                                                                                                                                                          6
+CGMP Deviations; the firm discontinued required stability testing for products on the market still within expiry                                                                                                        5
