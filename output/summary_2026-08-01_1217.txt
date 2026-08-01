@@ -1,0 +1,17 @@
+FDA Drug Recall Summary — generated 2026-08-01_1217
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II     94
+Class I       3
+Class III     3
+
+Top 5 most common recall reasons:
+Reason
+SubPotent Drug: low pH and significantly reduced assay (~0.6% vs expected ~6 7%).                                                                                                                                      11
+Lack of assurance of sterility: Unsterilized ChloraPrep & PurPrep Applicators, intended for further processing and sterilization were instead distributed to customers outside of the intended distribution channel    10
+CGMP Deviations; deficiencies observed during FDA inspection                                                                                                                                                           10
+Subpotent drug                                                                                                                                                                                                          6
+Defective container:may contain bottles with incomplete seals                                                                                                                                                           6
