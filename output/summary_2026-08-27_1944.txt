@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-08-27_1944
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              85
+Class III              8
+Class I                6
+Not Yet Classified     1
+
+Top 5 most common recall reasons:
+Reason
+Subpotent Drug                                                                                          12
+Presence of Particulate Matter; identified as a nylon/polyamide and silk/proteinaceous-type material    11
+SubPotent Drug: low pH and significantly reduced assay (~0.6% vs expected ~6 7%).                       11
+Lack of Assurance of Sterility                                                                           9
+Subpotent drug                                                                                           6
