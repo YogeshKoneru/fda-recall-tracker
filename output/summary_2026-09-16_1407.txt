@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-09-16_1407
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              83
+Class I               10
+Class III              6
+Not Yet Classified     1
+
+Top 5 most common recall reasons:
+Reason
+CGMP Deviations                                                                                                                   17
+Subpotent Drug                                                                                                                    12
+Presence of Particulate Matter: Product contaminated with particulate matter identified as hair, glass and/or paraformaldehyde    11
+Presence of Particulate Matter; identified as a nylon/polyamide and silk/proteinaceous-type material                              11
+CGMP Deviations:Noted during FDA inspection                                                                                        5
