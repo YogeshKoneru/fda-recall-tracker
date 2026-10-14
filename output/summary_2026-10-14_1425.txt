@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-10-14_1425
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              82
+Class I                9
+Class III              7
+Not Yet Classified     2
+
+Top 5 most common recall reasons:
+Reason
+CGMP Deviations                                                                                                                       17
+Lack of Assurance of Sterility                                                                                                        13
+Subpotent Drug                                                                                                                        13
+Failed Stability Specifications                                                                                                        7
+Subpotent Product: Firm Testing indicated the affected product may not reliably provide the SPF 50 protection stated on the label.     4
