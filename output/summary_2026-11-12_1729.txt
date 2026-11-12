@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-11-12_1729
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              88
+Class III              7
+Class I                3
+Not Yet Classified     2
+
+Top 5 most common recall reasons:
+Reason
+CGMP Deviations                                                                                                                                 23
+CGMP Deviations.                                                                                                                                14
+Lack of Assurance of Sterility                                                                                                                  11
+Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.    11
+Failed Impurities/Degradation Specifications                                                                                                     4
