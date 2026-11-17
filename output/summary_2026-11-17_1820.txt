@@ -1,0 +1,18 @@
+FDA Drug Recall Summary — generated 2026-11-17_1820
+
+Total recalls pulled: 100
+
+Recalls by severity class:
+Severity Class
+Class II              95
+Class III              3
+Not Yet Classified     1
+Class I                1
+
+Top 5 most common recall reasons:
+Reason
+Lack of Processing Controls                                                                                                                                                   42
+CGMP Deviations                                                                                                                                                               20
+CGMP Deviations.                                                                                                                                                               7
+Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots.     5
+Lack of Assurance of Sterility                                                                                                                                                 3
